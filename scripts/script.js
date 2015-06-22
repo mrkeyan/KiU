@@ -29,10 +29,8 @@ $(function(){
             topY = $(href).position().top;
         TweenLite.to(window, 1, {scrollTo:{y: topY, autoKill: true}});
 
-
     });  
 });
-
 
 /*scroll to top of page*/
 document.getElementById("scroll-top").addEventListener("click", function() {
