@@ -52,7 +52,11 @@ Date: June 21 2015
         align-items: center;
     }
     .mobile-nav-button:hover{
+<<<<<<< HEAD
         color: rgba(255,138,56,1);   
+=======
+        color: rgba(255, 138, 56, 1);   
+>>>>>>> 398f552fa6dd9ca59ab79a73e437215368af8924
     }
 
 
@@ -69,7 +73,7 @@ Date: June 21 2015
         border-radius: 1px;
         height: 3px;
         width: 30px;
-        background:  rgba(255, 139, 56, 1);;
+        background: rgba(255, 138, 56, 1);
         position: absolute;
         display: block;
         content: '';
@@ -157,7 +161,7 @@ Date: June 21 2015
         padding: 1em 0;        
     }
     .menu-header{
-        color: rgba(255, 139, 56, 1);
+        color: rgba(255, 138, 56, 1);
         font-weight: 600;
         padding: 1em 0;
     }
@@ -201,7 +205,7 @@ Date: June 21 2015
         padding: 1em 0;
     }
     .drinks-header{
-        color: rgba(255, 139, 56, 1);
+        color: rgba(255, 138, 56, 1);
         font-weight: 600;
         padding: 1em 0;
     }
@@ -328,7 +332,11 @@ Date: June 21 2015
     }
 
     .nav-button:hover{
+<<<<<<< HEAD
         color: rgba(255,138,56,1);   
+=======
+        color: rgba(255, 138, 56, 1);  
+>>>>>>> 398f552fa6dd9ca59ab79a73e437215368af8924
     }
 
     .header-nav a{
@@ -351,7 +359,7 @@ Date: June 21 2015
     }
 
     .header-description {
-        color: rgba(255, 139, 56, 1);
+        color: rgba(255, 138, 56, 1);
         font-size: 14px;
         font-weight: 600;
         text-transform: uppercase;
@@ -442,7 +450,7 @@ Date: June 21 2015
 
 
     .menu-header{
-        color: rgba(255, 139, 56, 1);
+        color: rgba(255, 138, 56, 1);
         font-weight: 600;
         letter-spacing: 2px;
     }
@@ -498,7 +506,7 @@ Date: June 21 2015
     }
 
     .drinks-header{
-        color: rgba(255, 139, 56, 1);
+        color: rgba(255, 138, 56, 1);
         font-weight: 600;
         letter-spacing: 2px;
         text-align: center;
