@@ -52,11 +52,7 @@ Date: June 21 2015
         align-items: center;
     }
     .mobile-nav-button:hover{
-<<<<<<< HEAD
-        color: rgba(255,138,56,1);   
-=======
         color: rgba(255, 138, 56, 1);   
->>>>>>> 398f552fa6dd9ca59ab79a73e437215368af8924
     }
 
 
@@ -332,11 +328,7 @@ Date: June 21 2015
     }
 
     .nav-button:hover{
-<<<<<<< HEAD
-        color: rgba(255,138,56,1);   
-=======
         color: rgba(255, 138, 56, 1);  
->>>>>>> 398f552fa6dd9ca59ab79a73e437215368af8924
     }
 
     .header-nav a{
