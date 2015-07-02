@@ -32,6 +32,7 @@ $(function(){
     });  
 });
 
+
 /*scroll to top of page*/
 document.getElementById("scroll-top").addEventListener("click", function() {
     TweenLite.to(window, 1, {scrollTo:{y:0, autoKill: true}}); 
