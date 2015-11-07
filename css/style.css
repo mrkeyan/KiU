@@ -605,15 +605,18 @@ Date: June 21 2015
     }
 
     /*gallery*/
+    
     .gallery {
-        width:100%;
+        width:1000px;
+        height:auto;
     }
 
     .slideshow-image{
-        max-width:100%; 
+        max-width:100%;
+        
     }
-
-    .swiper-slide{
+    /*
+    .gallery{
         display: -webkit-box;
         display: -webkit-flex;
         display: -ms-flexbox;
@@ -625,9 +628,9 @@ Date: June 21 2015
         -webkit-box-align: center;
         -webkit-align-items: center;
         -ms-flex-align: center;
-        align-items: center;
+        align-items: center;*/
     }
-
+    
     /*menu*/
 
     .menu {
