@@ -127,9 +127,9 @@ Date: June 21 2015
         -ms-flex-pack: center;
         justify-content: center;
     }
-    .header-logo-link img{
+    .header-logo{
         width: 200px;
-        height: 120px;
+        height: 165px;
     }
     .header-title {
         color: rgba(255,255,255,1);
@@ -498,9 +498,9 @@ Date: June 21 2015
         justify-content: center;
     }
 
-    .header-logo-link img{
+    .header-logo{
         width: 300px;
-        height: 200px;
+        height: 250px;
     }
     .header-title {
         color: rgba(255,255,255,1);
@@ -628,9 +628,9 @@ Date: June 21 2015
         -webkit-box-align: center;
         -webkit-align-items: center;
         -ms-flex-align: center;
-        align-items: center;*/
+        align-items: center;
     }
-    
+    */
     /*menu*/
 
     .menu {
@@ -885,4 +885,11 @@ Date: June 21 2015
         display:none;   
     }
 
+}
+
+@media only screen and (min-width: 1400px){
+    .gallery{
+        width:1300px;
+        height:auto;
+    }
 }
